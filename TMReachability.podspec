@@ -18,10 +18,10 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = "常用网络状态库"
 
-  s.homepage         = "https://github.com/Tovema-iOS/FLReachability"
+  s.homepage         = "https://github.com/Tovema-iOS/TMReachability"
   s.license          = 'MIT'
   s.author           = { 'CodingPub' => 'lxb_0605@qq.com' }
-  s.source           = { :git => "https://github.com/Tovema-iOS/FLReachability.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/Tovema-iOS/TMReachability.git", :tag => s.version.to_s }
 
   s.platform     = :ios, '8.0'
   s.requires_arc = true
