@@ -1,0 +1,6 @@
+source 'https://github.com/Tovema-iOS/Specs.git'
+#use_frameworks!
+
+target 'FLReachability_Example' do
+  pod "TMReachability", :path => "../"
+end
