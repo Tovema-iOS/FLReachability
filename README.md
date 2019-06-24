@@ -37,7 +37,7 @@ NSLog(@"%@", @(TMReachabilityHelper.currentStatus));
 
 ## Author
 
-chensiyi, chensiyi@felink.com
+CodingPub, lxb_0605@qq.com
 
 ## License
 
